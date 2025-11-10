@@ -1,0 +1,12 @@
+id = "mcp-server-2slides"
+name = "2slides MCP Server"
+description = "Model Context Protocol Server for 2slides"
+version = "0.0.1"
+schema_version = 1
+authors = ["2slides <2slideai@gmail.com>"]
+repository = "https://github.com/2slides/zed-mcp-server-2slides"
+
+[context_servers.mcp-server-2slides]
+name = "2slides MCP Server"
+
+
